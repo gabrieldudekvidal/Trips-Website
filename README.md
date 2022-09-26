@@ -1,1 +1,1 @@
-# trips-website
+# Trips Website
